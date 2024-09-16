@@ -1,9 +1,11 @@
+```code
+Markdown is tricky.  It will understand Markdown characters as well as HTML.
+In either case, Markdown and HTML are text files.
+The difference is the file extension:
+Markdown -- .md or .markdown
+HTML - .html or windows (.htm)
 
-<html>
-<head>
-  <title>Ryan Angelone - Angelone Coding Co.</title>
-</head>
-<body>
+```
   <h1>Ryan Angelone</h1>
   <h2>Angelone Coding Co.</h2>
 
@@ -21,5 +23,3 @@
 
   <h6>Research Interests</h6>
   <p>I am currently interested in researching anything that sparks my interest at any given moment. I am always eager to learn new things and there is not much that I would not be interested in learning more about.</p>
-</body>
-</html>
