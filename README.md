@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Ryan Angelone - Angelone Coding Co.</title>
